@@ -17,7 +17,7 @@ My interest in technology has led me to seek a career change. As I delved into o
 | Investigated a Kerberoasting Attack | <a href="https://github.com/timsar-am/KerberoastingAttack/tree/main">Lab Walkthrough</a>|
 | Installing WireShark on Ubuntu. Analyzing Malicious Traffic   | <a href="https://github.com/timsar-am/MaliciousTrafficAnalysis/tree/main">Lab Walkthrough</a>|
 | Phishing Email Analysis | <a href="https://github.com/timsar-am/PhishingEmail/tree/main">Lab Walkthrough</a>|
-| Investigating Unusual Logins, Gathering Employee Data | <a href="https://github.com/timsar-am/PhishingEmail/tree/main">Lab Walkthrough</a>|
+| Investigating Unusual Logins, Gathering Employee Data | <a href="https://github.com/timsar-am/SQLGatheringEmployeeData/tree/main">Lab Walkthrough</a>|
 ## Tools
 
 ### Network
