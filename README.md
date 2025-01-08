@@ -10,7 +10,7 @@ My interest in technology has led me to seek a career change. As I delved into o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Investigated Unusual Login Attempts and Unauthorized Access     | <a href="https://google.com">Detection Lab</a>|
+| Investigated Unusual Login Attempts and Unauthorized Access     | <a href="https://github.com/timsar-am/Investigated-Unusual-Login-Attempts-and-Unauthorized-Access/blob/main/README.md">Lab Walkthrough</a>|
 | Performed Malicious Traffic Analysis   | <a href="https://google.com">Detection Lab</a>|
 | Malware Traffic Analysis 1             | SOC Automation Lab|
 | Investigated a security breach in Active Directory   | SOC Automation Lab|
