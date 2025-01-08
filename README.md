@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hello, I'm Ali
 
-<!--
-**timsar-am/timsar-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Cyber Security Analyst. I have completed the Google IT Support Professional Certificate, Google Cyber Security Professional Certificate, and Try Hack Me SOC Level 1. 
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interest in technology has led me to seek a career change. As I delved into online courses, I began to develop a passion for Cyber Security. My goal is to land a role as a Level 1 SOC Analyst. 
+
+## Skills and Projects
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Investigated Unusual Login Attempts and Unauthorized Access     | <a href="https://google.com">Detection Lab</a>|
+| Performed Malicious Traffic Analysis   | <a href="https://google.com">Detection Lab</a>|
+| Malware Traffic Analysis 1             | SOC Automation Lab|
+| Investigated a security breach in Active Directory   | SOC Automation Lab|
+| Investigated compromise of a mail server                | SOC Automation Lab|
+| Investigated a Kerberoasting Attack | SOC Automation Lab|
+| Phishing Email Analysis | SOC Automation Lab|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/NETWORKMINER-black" />
+  <img src="https://img.shields.io/badge/ZUI%20(BRIM)-orange" />
+  <img src="https://img.shields.io/badge/SNORT-pink" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTMASTER-green" />
+  <img src="https://img.shields.io/badge/MICROSOFT%20DEFENDER%20-blue" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### OPEN-SOURCE
+
+<div>
+    <img src="https://img.shields.io/badge/VIRUSTOTAL-blue" />
+    <img src="https://img.shields.io/badge/CYBERCHEF-white" />
+</div>
+
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/GOOGLE%20CYBER%20SECURITY%20PROFESSIONAL-yellow" />
+<img src="https://img.shields.io/badge/TRY%20HACK%20ME%20SOC%20LEVEL%201-purple" />
+<img src="https://img.shields.io/badge/GOOGLE%20IT%20SUPPORT%20PROFESSIONAL-%20brown" />
+</div>
