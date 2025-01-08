@@ -33,12 +33,19 @@ My interest in technology has led me to seek a career change. As I delved into o
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
   <img src="https://img.shields.io/badge/PORTMASTER-green" />
   <img src="https://img.shields.io/badge/MICROSOFT%20DEFENDER%20-blue" />
+<img src="https://img.shields.io/badge/Windows%20Event%20Viewer-blue" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Operating Systems 
+
+</div>
+    <img src="https://img.shields.io/badge/Windows-blue" />  <img src="https://img.shields.io/badge/Ubuntu-orange" />  <img src="https://img.shields.io/badge/Kali%20Linux-blue"/>
 </div>
 
 ### OPEN-SOURCE
