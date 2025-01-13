@@ -15,7 +15,7 @@ My interest in technology has led me to seek a career change. As I delved into o
 | Investigated a security breach in Active Directory Network   | <a href="https://github.com/timsar-am/InvestigatingASecurityBreachInActiveDirectoryNetwork/tree/main">Lab Walkthrough</a>|
 | Investigated The Compromise of a Mail Server                | <a href="https://github.com/timsar-am/CompromiseOfMailServer/tree/main">Lab Walkthrough</a>|
 | Investigated a Kerberoasting Attack | <a href="https://github.com/timsar-am/KerberoastingAttack/tree/main">Lab Walkthrough</a>|
-| Cloud Forensics- Investigated Compromise of AWS Environment | <a href="https://github.com/timsar-am/KerberoastingAttack/tree/main">Lab Walkthrough</a>|
+| AWS Cloud Forensics- Investigated Compromise of Amazon S3 | <a href="https://github.com/timsar-am/KerberoastingAttack/tree/main">Lab Walkthrough</a>|
 | Memory Dump Analysis | <a href="https://github.com/timsar-am/MemoryDumpAnalysis/tree/main">Lab Walkthrough</a>|
 | Installing WireShark on Ubuntu. Analyzing Malicious Traffic   | <a href="https://github.com/timsar-am/MaliciousTrafficAnalysis/tree/main">Lab Walkthrough</a>|
 | Phishing Email Analysis | <a href="https://github.com/timsar-am/PhishingEmail/tree/main">Lab Walkthrough</a>|
