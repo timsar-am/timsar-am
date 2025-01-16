@@ -68,5 +68,5 @@ My interest in technology has led me to seek a career change. As I delved into o
 <img src="https://img.shields.io/badge/GOOGLE%20CYBER%20SECURITY%20PROFESSIONAL-yellow" />
 <img src="https://img.shields.io/badge/TRY%20HACK%20ME%20SOC%20LEVEL%201-purple" />
 <img src="https://img.shields.io/badge/GOOGLE%20IT%20SUPPORT%20PROFESSIONAL-%20brown" />
-<img src="https://img.shields.io/badge/Amazon%20Cloud%20Practitioner%20Essentials-black" />
+<img src="https://img.shields.io/badge/Amazon%20Cloud%20Practitioner%20Essentials-orange" />
 </div>
