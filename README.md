@@ -1,6 +1,6 @@
 # Hello, I'm Ali
 
-I am an aspiring Cyber Security Analyst. I have completed the Google IT Support Professional Certificate, Google Cyber Security Professional Certificate, and Try Hack Me SOC Level 1. 
+I am an aspiring Cyber Security Analyst. I have completed the Google IT Support Professional Certificate, Google Cyber Security Professional Certificate, and Try Hack Me SOC Level 1. Please check out the verious projects I have completed below. 
 
 ## Objective
 
