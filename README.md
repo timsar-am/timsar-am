@@ -21,7 +21,7 @@ My interest in technology has led me to seek a career change. As I delved into o
 | Phishing Email Analysis | <a href="https://github.com/timsar-am/PhishingEmail/tree/main">Lab Walkthrough</a>|
 | Investigating Unusual Logins, Assembled Employee Data | <a href="https://github.com/timsar-am/SQLGatheringEmployeeData/tree/main">Lab Walkthrough</a>|
 | Installing and Configuring Snort | <a href="https://github.com/timsar-am/InstallingandConfiguringSnort/tree/main">Lab Walkthrough</a>|
-| Installing and Configuring Wazuh | <a href="https://github.com/timsar-am/InstallingandConfiguringSnort/tree/main">Lab Walkthrough</a>|
+| Installing and Configuring Wazuh | <a href="https://github.com/timsar-am/WazuhInstall/tree/main">Lab Walkthrough</a>|
 ## Tools
 
 ### Network
