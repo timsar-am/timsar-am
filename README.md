@@ -46,6 +46,7 @@ My interest in technology has led me to seek a career change. As I delved into o
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+     <img src="https://img.shields.io/badge/WAZUH-blue" />
 </div>
 
 ### Operating Systems 
