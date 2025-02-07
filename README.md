@@ -22,6 +22,7 @@ My interest in technology has led me to seek a career change. As I delved into o
 | Investigating Unusual Logins, Assembled Employee Data | <a href="https://github.com/timsar-am/SQLGatheringEmployeeData/tree/main">Lab Walkthrough</a>|
 | Installing and Configuring Snort | <a href="https://github.com/timsar-am/InstallingandConfiguringSnort/tree/main">Lab Walkthrough</a>|
 | Installing and Configuring Wazuh | <a href="https://github.com/timsar-am/WazuhInstall/tree/main">Lab Walkthrough</a>|
+| Memory Dump Analysis- Akira Ransomware | <a href="https://github.com/timsar-am/WazuhInstall/tree/main">Lab Walkthrough</a>|
 ## Tools
 
 ### Network
