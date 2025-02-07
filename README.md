@@ -42,6 +42,9 @@ My interest in technology has led me to seek a career change. As I delved into o
   <img src="https://img.shields.io/badge/MICROSOFT%20DEFENDER%20-blue" />
 <img src="https://img.shields.io/badge/Windows%20Event%20Viewer-blue" />
     <img src="https://img.shields.io/badge/Volatility%203-red" />
+    <img src="https://img.shields.io/badge/EvtxECmd-blue" />
+     <img src="https://img.shields.io/badge/Timeline%20Explorer-Yellow" />
+    
 </div>
 
 ### SIEM
