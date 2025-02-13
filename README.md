@@ -8,11 +8,11 @@ My interest in technology has led me to seek a career change. As I delved into o
 
 ## Skills and Projects
 
-| Skill                                         | Associated Project         |
+| Project                                        | Associated Repository     |
 |-----------------------------------------------|----------------------------|
 | Installing and Configuring SIEM & XDR Wazuh | <a href="https://github.com/timsar-am/WazuhInstall/tree/main">Walkthrough</a>|
 | Investigated Unusual Login Attempts and Unauthorized Access     | <a href="https://github.com/timsar-am/Investigated-Unusual-Login-Attempts-and-Unauthorized-Access/tree/main">Walkthrough</a>|
-| Performed Malicious Traffic Analysis   | <a href="https://github.com/timsar-am/MalwareTrafficAnalysis">Lab Walkthrough</a>|
+| Performed Malicious Traffic Analysis   | <a href="https://github.com/timsar-am/MalwareTrafficAnalysis">Walkthrough</a>|
 | Investigated a security breach in Active Directory Network   | <a href="https://github.com/timsar-am/InvestigatingASecurityBreachInActiveDirectoryNetwork/tree/main">Walkthrough</a>|
 | Investigated The Compromise of a Mail Server                | <a href="https://github.com/timsar-am/CompromiseOfMailServer/tree/main">Walkthrough</a>|
 | Investigated a Kerberoasting Attack | <a href="https://github.com/timsar-am/KerberoastingAttack/tree/main">Walkthrough</a>|
