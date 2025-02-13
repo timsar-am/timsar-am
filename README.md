@@ -10,20 +10,20 @@ My interest in technology has led me to seek a career change. As I delved into o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Investigated Unusual Login Attempts and Unauthorized Access     | <a href="https://github.com/timsar-am/Investigated-Unusual-Login-Attempts-and-Unauthorized-Access/tree/main">Lab Walkthrough</a>|
+| Installing and Configuring SIEM & XDR Wazuh | <a href="https://github.com/timsar-am/WazuhInstall/tree/main">Walkthrough</a>|
+| Investigated Unusual Login Attempts and Unauthorized Access     | <a href="https://github.com/timsar-am/Investigated-Unusual-Login-Attempts-and-Unauthorized-Access/tree/main">Walkthrough</a>|
 | Performed Malicious Traffic Analysis   | <a href="https://github.com/timsar-am/MalwareTrafficAnalysis">Lab Walkthrough</a>|
-| Investigated a security breach in Active Directory Network   | <a href="https://github.com/timsar-am/InvestigatingASecurityBreachInActiveDirectoryNetwork/tree/main">Lab Walkthrough</a>|
-| Investigated The Compromise of a Mail Server                | <a href="https://github.com/timsar-am/CompromiseOfMailServer/tree/main">Lab Walkthrough</a>|
-| Investigated a Kerberoasting Attack | <a href="https://github.com/timsar-am/KerberoastingAttack/tree/main">Lab Walkthrough</a>|
-| AWS Cloud Forensics- Investigated Compromise of Amazon S3 | <a href="https://github.com/timsar-am/AmazonS3Compromise/tree/main">Lab Walkthrough</a>|
-| Memory Dump Analysis | <a href="https://github.com/timsar-am/MemoryDumpAnalysis/tree/main">Lab Walkthrough</a>|
-| Installing WireShark on Ubuntu. Analyzing Malicious Traffic   | <a href="https://github.com/timsar-am/MaliciousTrafficAnalysis/tree/main">Lab Walkthrough</a>|
-| Phishing Email Analysis | <a href="https://github.com/timsar-am/PhishingEmail/tree/main">Lab Walkthrough</a>|
-| Investigating Unusual Logins, Assembled Employee Data | <a href="https://github.com/timsar-am/SQLGatheringEmployeeData/tree/main">Lab Walkthrough</a>|
-| Installing and Configuring Snort | <a href="https://github.com/timsar-am/InstallingandConfiguringSnort/tree/main">Lab Walkthrough</a>|
-| Installing and Configuring Wazuh | <a href="https://github.com/timsar-am/WazuhInstall/tree/main">Lab Walkthrough</a>|
-| Memory Dump Analysis- Akira Ransomware | <a href="https://github.com/timsar-am/AkiraRansomware/tree/main">Lab Walkthrough</a>|
-| Malware Analysis- Investigating Trickbot | <a href="https://github.com/timsar-am/trickbot">Lab Walkthrough</a>|
+| Investigated a security breach in Active Directory Network   | <a href="https://github.com/timsar-am/InvestigatingASecurityBreachInActiveDirectoryNetwork/tree/main">Walkthrough</a>|
+| Investigated The Compromise of a Mail Server                | <a href="https://github.com/timsar-am/CompromiseOfMailServer/tree/main">Walkthrough</a>|
+| Investigated a Kerberoasting Attack | <a href="https://github.com/timsar-am/KerberoastingAttack/tree/main">Walkthrough</a>|
+| AWS Cloud Forensics- Investigated Compromise of Amazon S3 | <a href="https://github.com/timsar-am/AmazonS3Compromise/tree/main">Walkthrough</a>|
+| Memory Dump Analysis | <a href="https://github.com/timsar-am/MemoryDumpAnalysis/tree/main">Walkthrough</a>|
+| Installing WireShark on Ubuntu. Analyzing Malicious Traffic   | <a href="https://github.com/timsar-am/MaliciousTrafficAnalysis/tree/main">Walkthrough</a>|
+| Phishing Email Analysis | <a href="https://github.com/timsar-am/PhishingEmail/tree/main">Walkthrough</a>|
+| Investigating Unusual Logins, Assembled Employee Data | <a href="https://github.com/timsar-am/SQLGatheringEmployeeData/tree/main">Walkthrough</a>|
+| Installing and Configuring Snort | <a href="https://github.com/timsar-am/InstallingandConfiguringSnort/tree/main">Walkthrough</a>|
+| Memory Dump Analysis- Akira Ransomware | <a href="https://github.com/timsar-am/AkiraRansomware/tree/main">Walkthrough</a>|
+| Malware Analysis- Investigating Trickbot | <a href="https://github.com/timsar-am/trickbot">Walkthrough</a>|
 ## Tools
 
 ### Network
