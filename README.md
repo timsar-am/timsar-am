@@ -60,7 +60,7 @@ My interest in technology has led me to seek a career change. As I delved into o
     <img src="https://img.shields.io/badge/Windows-blue" />  <img src="https://img.shields.io/badge/Ubuntu-orange" />  <img src="https://img.shields.io/badge/Kali%20Linux-blue"/>
 </div>
 
-### OPEN-SOURCE
+### OPEN-SOURCE INTELLIGENCE 
 
 <div>
     <img src="https://img.shields.io/badge/VIRUSTOTAL-blue" />
