@@ -1,6 +1,8 @@
 # Hello, I'm Ali
 
-I am a Security Analyst at Roontac IT Consultancy. I spent four years in the insurance industry and one day a training course about phishing emails lead me to pursue a career in Cyber Security.   
+I am a Security Analyst at Roontac IT Consultancy. I spent four years in the insurance industry and one day a training course about phishing emails lead me to pursue a career in Cyber Security.
+
+<a href="https://www.linkedin.com/in/timsar-am/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Skills and Projects | Home Lab
 
