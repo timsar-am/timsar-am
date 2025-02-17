@@ -1,12 +1,8 @@
 # Hello, I'm Ali
 
-I am an aspiring Cyber Security Analyst. I have completed the Google IT Support Professional Certificate, Google Cyber Security Professional Certificate, and Try Hack Me SOC Level 1. Please check out the projects I have completed below. 
+I am a Security Analyst at Roontac IT Consultancy. I spent four years in the insurance industry and one day a training course about phishing emails lead me to pursue a career in Cyber Security.   
 
-## Objective
-
-My interest in technology has led me to seek a career change. As I delved into online courses, I began to develop a passion for Cyber Security. My goal is to land a role as a Level 1 SOC Analyst. 
-
-## Skills and Projects
+## Skills and Projects | Home Lab
 
 | Project                                        | Associated Repository     |
 |-----------------------------------------------|----------------------------|
