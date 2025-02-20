@@ -1,4 +1,4 @@
-# Hello, I'm Ali
+# Hello, I'm Ale
 
 I am a Security Analyst at Roontac IT Consultancy. I spent four years in the insurance industry and one day a training course about phishing emails lead me to pursue a career in Cyber Security.
 
